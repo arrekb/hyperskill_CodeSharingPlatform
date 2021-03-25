@@ -1,0 +1,12 @@
+.DS_Store
+build
+classes
+.idea
+*.iml
+*.ipr
+*.iws
+/data
+out
+course*yaml
+
+Problems/
